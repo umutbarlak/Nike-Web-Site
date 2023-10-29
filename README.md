@@ -1,6 +1,6 @@
 <h1>Nike Shoe Web Site</h1>
 
-Bu proje örnek bir ayakkabı projesidir
+Bu proje örnek bir ayakkabı web projesidir.
 
 <h2>Kullanılan Diller</h2>
 
